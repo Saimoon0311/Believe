@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "360199194045",
+    "firebase_url": "https://believe-b665d-default-rtdb.firebaseio.com",
+    "project_id": "believe-b665d",
+    "storage_bucket": "believe-b665d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360199194045:android:feb9a7aca05c06da04bed4",
+        "android_client_info": {
+          "package_name": "com.anideos.believe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360199194045-a12ll3m7g5k2aritr98n1pb3p704evlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRzQ7KaPiqv0tpQQ8095dKlbTFOhdiMSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360199194045-a12ll3m7g5k2aritr98n1pb3p704evlu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "360199194045-0m0avhifsedni15huth1qapha5fapunn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anideos.believe.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360199194045:android:7119f566b62dd57c04bed4",
+        "android_client_info": {
+          "package_name": "com.believe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360199194045-dt7mh8srsjoqh82jb7hvb9bhmc0hpbq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.believe",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "360199194045-a12ll3m7g5k2aritr98n1pb3p704evlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRzQ7KaPiqv0tpQQ8095dKlbTFOhdiMSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360199194045-a12ll3m7g5k2aritr98n1pb3p704evlu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "360199194045-0m0avhifsedni15huth1qapha5fapunn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anideos.believe.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360199194045:android:b0f9b7de46fb2c5004bed4",
+        "android_client_info": {
+          "package_name": "com.believe.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360199194045-a12ll3m7g5k2aritr98n1pb3p704evlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRzQ7KaPiqv0tpQQ8095dKlbTFOhdiMSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360199194045-a12ll3m7g5k2aritr98n1pb3p704evlu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "360199194045-0m0avhifsedni15huth1qapha5fapunn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anideos.believe.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

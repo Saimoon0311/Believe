@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Believe</string>
+
+
+<string name="facebook_app_id">2068314436675426</string>
+<string name="fb_login_protocol_scheme">fb2068314436675426</string>
+<string name="facebook_client_token">39b40f9c012495cc26ef50d9461f7155</string>
+</resources>

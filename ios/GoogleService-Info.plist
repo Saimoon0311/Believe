@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>360199194045-4aml6tifljal5h4p2nvtpn2rvjda6p5q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.360199194045-4aml6tifljal5h4p2nvtpn2rvjda6p5q</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>360199194045-67gppjs86fkr564f9uenq8n80af8c77s.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDJrPrdnlnwGmJfGyXanxqe3itJp4uOJ30</string>
+	<key>GCM_SENDER_ID</key>
+	<string>360199194045</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.anideos.believe</string>
+	<key>PROJECT_ID</key>
+	<string>believe-b665d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>believe-b665d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:360199194045:ios:9a379dc8d94ce3c804bed4</string>
+	<key>DATABASE_URL</key>
+	<string>https://believe-b665d-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
